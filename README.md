@@ -40,7 +40,7 @@ Driven by an Unwavering Passion for Data Analytics and a Fervent Commitment to A
 
 # ⏳ Dataset
 
-The HR Analytics Dataset is a combination of 4 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
+The HR Analytics Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
 - Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16495052/Raw.Data.xlsx)
   
@@ -91,14 +91,14 @@ When we examine the Data, we observe a number of Different Columns.
 # Requirement
 
 - ✅ Employees Count🧑🧔🏻👩👩🏻‍💼
-- ✅ Attrition Count 🧑
-- ✅ Attrition Rate 👩
-- ✅ Active Eployees 💰
-- ✅ Avg Age 💰
+- ✅ Attrition Count 
+- ✅ Attrition Rate 
+- ✅ Active Eployees 
+- ✅ Avg Age 
 - ✅ Attrition by Gender 👨🏻‍💻👩🏻‍💻
 - ✅ Department-wise Attrition
-- ✅ No of Employees by Age Group ⭐⭐⭐
-- ✅ Job Satisfaction Ratings ⭐
+- ✅ No of Employees by Age Group 
+- ✅ Job Satisfaction Ratings 
 - ✅ Education Field wise Attrition 👨🏻‍💻
 - ✅ Attrition Rate by Gender for Different Age Group
 
