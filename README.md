@@ -117,16 +117,29 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
+Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
 
-This Illustrates the Analysis of "Home" Sheet. 
-![Analysis 1](https://github.com/user-attachments/assets/26786657-640c-414c-bb1d-49b9f32fe6ef)
+![Dashboard](https://github.com/user-attachments/assets/0462c355-6e62-4423-9127-c2734e01c26d)
 
-This Illustrates the Analysis of "Action" Sheet. 
-![Analysis 2](https://github.com/user-attachments/assets/e45a335c-959c-4fe1-b9a8-5a811c619f28)
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
 
-This Illustrates the Analysis of "Details" Sheet.
-![Analysis 3](https://github.com/user-attachments/assets/f863cadb-19ef-4e13-a94d-930daa8eba53)
+This Illustrates the Analysis of Education with "Bachelor's Degree". 
+![Analysis 1](https://github.com/user-attachments/assets/3512ff70-9fec-4624-b8c2-2788d6b3892e)
+
+This Illustrates the Analysis of Education with "Master's Degree".
+![Analysis 2](https://github.com/user-attachments/assets/474ea28f-ae3f-489d-8a9a-1c786f7c1222)
+
+This Illustrates the Analysis of Education with "Associates Degree".
+![Analysis 3](https://github.com/user-attachments/assets/05e2dd58-4335-4cd4-b8b5-528f729a2f28)
+
+This Illustrates the Analysis of Education with only "High School".
+![Analysis 4](https://github.com/user-attachments/assets/3e928c70-da68-45e4-b08d-ebc7aa12c01f)
+
+This Illustrates the Analysis with Age Bin as "5" in No of Employees by Age Group.
+![Analysis 5](https://github.com/user-attachments/assets/8e737d94-6206-422a-9664-fbe6eb1d4ea7)
+
+This Illustrates the Analysis with Age Bin as "10" in No of Employees by Age Group.
+![Analysis 6](https://github.com/user-attachments/assets/662e4ae2-f71d-449c-9373-e12085f9ab0c)
 
 # Author 🙎‍♀️  
 
