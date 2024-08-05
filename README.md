@@ -121,7 +121,7 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 
 ![Dashboard](https://github.com/user-attachments/assets/0462c355-6e62-4423-9127-c2734e01c26d)
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Education Category and Age Bin
 
 This Illustrates the Analysis of Education with "Bachelor's Degree". 
 ![Analysis 1](https://github.com/user-attachments/assets/3512ff70-9fec-4624-b8c2-2788d6b3892e)
