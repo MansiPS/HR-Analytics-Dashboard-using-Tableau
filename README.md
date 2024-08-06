@@ -42,7 +42,7 @@ Driven by an Unwavering Passion for Data Analytics and a Fervent Commitment to A
 
 The HR Analytics Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data Link :- https://github.com/MansiPS/HR-Analytics-Dashboard-using-Tableau/blob/36718f9e3f82eaebd611549a93353f03f016107b/Raw%20Data.xlsx
+- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16505008/Raw.Data.xlsx)
   
 ## 📑 Dataset Description
 
