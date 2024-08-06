@@ -113,7 +113,6 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 - Applied Sorting and Filters📶
-- Created New Measures
 
 # 🚀 My Project
 
