@@ -134,6 +134,11 @@ This Illustrates the Analysis of Education with "Associates Degree". 📍
 This Illustrates the Analysis of Education with only "High School". 📍
 ![Analysis 4](https://github.com/user-attachments/assets/3e928c70-da68-45e4-b08d-ebc7aa12c01f)
 
+![Analysis 9](https://github.com/user-attachments/assets/5229ca35-bb69-4c13-acf1-d02a97fb4185)
+![Analysis 10](https://github.com/user-attachments/assets/9d964219-f008-4dfc-badc-cb69e5827bbf)
+![Analysis 11](https://github.com/user-attachments/assets/6cea9dd2-3c02-43bc-b0bd-664ae11de63b)
+![Analysis 12](https://github.com/user-attachments/assets/1ac18868-575a-44b2-a3b1-4a7e634b21d0)
+
 This Illustrates the Analysis with Age Bin as "5" in No of Employees by Age Group. 📍
 ![Analysis 5](https://github.com/user-attachments/assets/8e737d94-6206-422a-9664-fbe6eb1d4ea7)
 
