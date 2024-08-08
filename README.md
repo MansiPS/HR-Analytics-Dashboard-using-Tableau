@@ -146,6 +146,12 @@ This Illustrates the Analysis of Attrition with Education Field as "Life Science
 This Illustrates the Analysis of Attrition with Education Field as "Marketing". 📍
 ![Analysis 12](https://github.com/user-attachments/assets/1ac18868-575a-44b2-a3b1-4a7e634b21d0)
 
+This Illustrates the Analysis of Attrition of "Female" Employees. 📍
+![Analysis 7](https://github.com/user-attachments/assets/a8e30eee-2037-4802-83b8-56087936040d)
+
+This Illustrates the Analysis of Attrition of "Male" Employees. 📍
+![Analysis 8](https://github.com/user-attachments/assets/979217f0-9b2d-4c48-bb94-dbed60f16bdc)
+
 This Illustrates the Analysis with Age Bin as "5" in No of Employees by Age Group. 📍
 ![Analysis 5](https://github.com/user-attachments/assets/8e737d94-6206-422a-9664-fbe6eb1d4ea7)
 
